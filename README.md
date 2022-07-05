@@ -1,1 +1,9 @@
-# web_server_log
+# README
+
+##Requirments: 
+
+- Ruby -v 2.7.4
+- rspec gem 
+
+# Setup 
+- run command rspec 
